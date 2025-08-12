@@ -1,2 +1,2 @@
 # githubActions-practice
-Exploring GitHub Actions and the if statement
+Exploring GitHub Actions with conditionals and contexts
